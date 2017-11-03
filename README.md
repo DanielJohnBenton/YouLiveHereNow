@@ -8,6 +8,7 @@ Based pretty closely on [this Keras example](https://github.com/fchollet/keras/b
 - Ancestor
 - Little Worth
 - Long Mill on the Hill
+- Bridge of Little Stratch Hill
 
 ## Technologies used
 - Architecture: LSTM
