@@ -12,3 +12,7 @@ Based pretty closely on [this Keras example](https://github.com/fchollet/keras/b
 ## Technologies used
 - Architecture: LSTM
 - 3rd-party libraries: Keras, Tensorflow, NumPy
+
+## Original idea?
+No. It's been done before.
+- [AI is traned to generate incredibly British place names](http://www.telegraph.co.uk/technology/2017/07/20/ai-trained-generate-incredibly-british-place-names/) - Telegraph
