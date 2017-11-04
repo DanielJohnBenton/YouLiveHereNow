@@ -2,8 +2,7 @@ import sys
 import random
 import numpy
 from keras.models import Sequential
-from keras.layers import Dense, Activation
-from keras.layers import LSTM
+from keras.layers import Dense, Activation, LSTM
 from keras.optimizers import RMSprop
 
 # =====
