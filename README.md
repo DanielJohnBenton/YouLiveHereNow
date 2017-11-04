@@ -10,6 +10,9 @@
 - Shirtie Hacktown
 - Bridge of Little Stratch Hill
 - Old Belchown of Glemmuirthonton
+- Little Lower Poet Hille
+- Clatterbridge
+- Arch on Samnickton of Tin Isle Beirton
 
 Yes...
 It actually came out with Sowton Porkham.
@@ -948,4 +951,3 @@ It also works well for generating other similar lists, such as animal names.
 ## More fun/cool names - honourable mentions:
 - Eddwaldbury
 - Longltol Norton on The Mork
-- Little Lower Poet Hille
