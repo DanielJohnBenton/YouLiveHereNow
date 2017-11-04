@@ -15,6 +15,7 @@ It actually came out with Sowton Porkham.
 
 ## Technologies used
 - Architecture: [Long Short-Term Memory (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory) neural network
+- Language: Python
 - 3rd-party libraries: [Keras](https://keras.io/), [Tensorflow](https://www.tensorflow.org/), [NumPy](http://www.numpy.org/)
 
 ## Results example
