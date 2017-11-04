@@ -7,7 +7,7 @@ from keras.optimizers import RMSprop
 
 # =====
 # SETTINGS
-INPUT_PATH = "placenames_scotland.txt";
+INPUT_PATH = "data/placenames_uk.txt";
 
 PRESERVE_CASE = True
 PIECE_LEN = 10
