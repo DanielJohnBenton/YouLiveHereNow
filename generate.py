@@ -10,13 +10,14 @@ from keras.optimizers import RMSprop
 INPUT_PATH = "data/placenames_uk.txt";
 
 PRESERVE_CASE = True
+SHUFFLE_INPUT = True
 PIECE_LEN = 10
 STEP = 3
 
 LSTM_N = 50
 LEARN_RATE = 0.01
 LOSS_FUNCTION = "categorical_crossentropy"
-TRAIN_ITERATIONS = 60
+TRAIN_ITERATIONS = 200
 
 TEST_DIVERSITIES = [0.2, 0.5, 1.0, 1.2]
 NAMES_PER_DIVERSITY = 100
@@ -27,10 +28,18 @@ DISPLAY_DISCARDED = True
 text = open(INPUT_PATH).read()
 if not PRESERVE_CASE:
 	text = text.lower()
+	print("Will not preserve case.")
+
+if SHUFFLE_INPUT:
+	items = text.splitlines()
+	random.shuffle(items)
+	text = "\n".join(items)
+	print("Input lines have been shuffled")
 
 existingPlacesLookup = {}
 if not KEEP_ALREADY_EXISTING_NAMES:
 	existingNames = dict((name, i) for i, name in enumerate(text.lower().splitlines()))
+	print("Pre-existing items will not count during generation.")
 
 characters = sorted(list(set(text)))
 
