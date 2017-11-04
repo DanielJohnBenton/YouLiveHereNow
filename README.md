@@ -15,6 +15,9 @@ It also works well for generating other similar lists, such as animal names.
 - Shirtie Hacktown
 - Bridge of Little Stratch Hill
 
+Yes...
+It actually came out with Sowton Porkham.
+
 ## Technologies used
 - Architecture: LSTM
 - 3rd-party libraries: Keras, Tensorflow, NumPy
