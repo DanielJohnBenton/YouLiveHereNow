@@ -7,7 +7,7 @@ from keras.optimizers import RMSprop
 
 # =====
 # SETTINGS
-INPUT_PATH = "placenames.txt";
+INPUT_PATH = "placenames_scotland.txt";
 
 PRESERVE_CASE = True
 PIECE_LEN = 10
@@ -72,7 +72,7 @@ def sample(preds, temperature=1.0):
 	probas = numpy.random.multinomial(1, preds, 1)
 	return numpy.argmax(probas)
 
-for iteration in range(1, TRAIN_ITERATIONS):
+for iteration in range(1, TRAIN_ITERATIONS + 1):
 	print()
 	print("=" * 30)
 	print("Iteration:", iteration)

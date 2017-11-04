@@ -9,6 +9,7 @@
 - Long Mill on the Hill
 - Shirtie Hacktown
 - Bridge of Little Stratch Hill
+- Old Belchown of Glemmuirthonton
 
 Yes...
 It actually came out with Sowton Porkham.
@@ -507,6 +508,431 @@ Woldhopeluugswell
 Ridfield
 Cronguaau
 Haswleldon
+```
+
+## Example using only Scottish placenames
+
+```
+Iteration: 59
+Epoch 1/1
+10504/10504 [==============================] - 2s 149us/step - loss: 0.6920
+
+--- DIVERSITY: 0.2 ---
+
+DISCARDED: Castleton
+DISCARDED: Blackford
+Caldsty
+Badilachu
+Dullisston
+Lonerd
+Baldenstole
+Middel
+Dangry
+Inchremston
+Altlank
+Wilt Gramn
+Archol
+Kircercorn
+Polterre
+Kilulaing
+Kirkcoly
+Barkloch
+Baldern
+Abery
+Bridgear
+Tallaness
+Ayleberry
+Saff Goovern
+Stratheld
+Brighou
+Dunbriees
+Saint Miwnarton
+Kirkford
+Inverkien
+Duncraigh
+Denbirt
+Criegsheydls
+Stothnass
+Luchincroy
+Blllochie
+Midoll
+Barblynd
+Maintordhie
+Midol
+Dunbry
+Inchragburn
+Coalie
+Saiev
+Hownathridge
+Lonbridge
+Cournn
+Corrandre
+Shille
+Coruld
+Ferry
+Bricksind etd
+Badercote
+Briecorn
+Boullie
+Kinkwncrud
+Salenah
+Polwlybenss
+PolMtow Ger
+Arnander
+Ardderale
+Carnich
+Derry
+Barglod
+Dumers
+Duneldert
+Dannneed
+Cardliston
+AchlisareShee
+Avingriee
+Duchenaick
+Ganart Saick
+Dungried
+Kingcalr
+Logher Morn
+Galesargie
+Raigin
+Bosle Blagk
+AuchinPiet
+Glenhrossain
+Dalrendale
+Ston
+Morth Low
+CrHfgam
+Cassald
+Spirt
+Miltale
+Bailos Flechie
+Kirkton of Achle
+Bellyskerry
+Stenkort
+Arnidale
+Saitthin
+Midolliig
+Kinceraick
+Salebern
+Cowncretisk
+Denblusie
+CaHllafie
+Ardhenal
+Gorinevick
+Stoney
+
+--- DIVERSITY: 0.5 ---
+
+DISCARDED: Barry
+DISCARDED: Auch
+Carglem
+Chasty
+BalloGron
+Kilccofnick
+Poltocl
+Aidmole
+Stienane
+Cardold
+Barnan
+Cullogidgrowe
+Kingehrithe
+Invercilva
+Tond Bay
+lenston
+Brilckien
+Sauch nakrn
+Scarry
+Blaighord
+DurcrSumach
+Dorvinn
+Logher of Gorey
+Haldsain Meanton
+Urdhie
+Bald n ckw
+Akfon
+Ardford
+MotfinbriNistop
+Ale
+Kington
+Darchneen
+Bruglowach
+Lowanmole
+Stolvuie
+Midell
+Charnow
+Auden
+Buhnniecharn
+Cornychill
+Lowerrie
+Canslysken
+Arnie
+rige Comalie
+Sallinathilcort
+Mooser
+Corrndon
+Ardtluchan
+Kinglochton
+Gransten
+Dallendert
+Glencorry
+Klenston
+Kingwerthie
+Ardsterton
+Craggn
+Mhockhinn
+Morskart
+Lochwood Forth otl
+Pitleberds
+Canton
+Fean of Firtrie
+Croie
+Lower Ber
+Farrisga
+
+Carvangant
+Mirchston
+Fossington
+Craigg
+Ball
+Arnbriggs
+Canbrifies
+Saint Miwnord
+Drumank
+utha
+Kilmora
+Hideldsher
+Arddbullie
+Cass
+Drumsidgot
+
+DonSknk
+Stown
+Ballyshy
+len
+Auctonbriagh
+Coallie
+Kirkckinna
+Druminar
+Crosbridge
+Casslie
+CanniComer
+Clochneblan
+Croseh Olde hendart
+Granrouss Benchry
+Forrossill
+Keiltom
+Eist die
+oomale Saint Gailusse
+Isl
+Doukle
+
+--- DIVERSITY: 1.0 ---
+
+DISCARDED: Kilmore
+Ballochaie
+shed
+CaCUtron
+Nochwene
+aighole
+Bllachmick
+Fairy
+Carnan Mrick
+Auclington
+Kilcforthie
+Loweshen
+Ardforidge
+Donala
+Kenter Griege Ferins
+Auchergerw
+CrSaghores
+Pollherin
+duirletlon
+Starr
+hiterard Dee nas Glassken
+Aldbreen
+Rochaina
+Clowfie
+Isle Grean
+Abriston
+Molair
+of Glas
+Bamnochte
+KirkluGle
+Whill Ben Bandawlee
+Ardloystoles
+Ardea
+AvullIumin
+Ridckalbriagh
+Caird Davin
+Ballochry
+Invenkte
+Inchillick
+Sanmwinn
+Saunnahern
+Borgholdchach
+Craigt
+Glencrgick
+AuchinCrey
+Sooth Mainceraheld
+Balenburn
+Royth
+ooshie
+Easter Bridge
+Gearventons ofle
+shig
+Tihen
+Dunlock
+glacon Ales
+Durkannich
+Westens
+fie
+Kirckreeld
+SInesstown
+Golmachun Glany
+cortysiee
+Stoth
+Losfurn
+Fonmilleaco
+Weathrood
+CrHggs Knvenk
+Thacklicr
+Inverbrigg
+Lowerishels
+Strather
+Proskigk
+Cemmsside
+towny Beldie
+Kinckhoot
+Lonlfererishe
+trochar
+Crossiisktorn
+Carnsd la O
+Ayle knisse
+Eartossill
+Kingtruse
+Rogin
+Ballickhinn
+Strothhall
+mirgston Fornes
+Oldsig
+Ridton All
+Remick
+Kilchoon
+Forlinar
+hiaddaig
+Tibriston
+Achtors
+Um
+Stolvuie
+Arvalmichine
+Portnemroe
+khirroot
+Morliem
+GlacroGras
+
+--- DIVERSITY: 1.2 ---
+
+Lheytertherr
+plintyness Banrossater
+Leerilandald
+Twentole
+Klockfoon
+Rorlitonn Sairl
+PoretenCre
+Cardshale
+Legneffouchie
+Kingter
+Garvie
+gorridcore
+Westherr
+Germacater
+East Skuln Forvuich
+kergisse
+Strathill
+Hairtmit
+Howny
+Ardslay
+Erstan
+Hamole
+Mill
+Clltoberr
+Reygle
+towner
+Rog
+Lorcharie
+Finbidge
+Derichne
+Ard lem
+KilkinBord
+Gouliston
+Durluch
+gattin
+Banrancore
+Fonarin
+Borchwick
+Kirtonnochn
+DunHupry
+Rishton
+Ardhocad
+Rachachie
+mirth Blagoo
+Foverisk
+Foxross Shield
+Carona
+Salentoce
+GrenGremes
+Lichon
+Berilcsy
+Invermoran of endia
+Midoburghiig Cavill
+Corrern
+BirKell
+A'hnaighort
+Goucmin
+Kington
+Alllan
+Culryilt
+Lunghoodchie
+Kirkfick
+Bundall
+Fennakill
+Gouloras
+Clanomriem
+Goungigs
+Casraichar
+Drumall Emven
+Porphinrtun
+Kington
+Forrosfid
+conmelly
+Hanten
+Bully
+Kirkword New
+Ardfort
+Eccorrosston
+Brdochbrnd
+Enpirt
+wirkol
+yre
+Isle
+Archremos
+Corlin
+Black
+readie
+Maxdll
+Maitthiel
+Lossay
+Kirkton of Sletton
+Craggiston
+Grestancr
+Gruignan
+Kirkburn
+Kilnaray
+East Bacny
+Auchssie
+LeOnton
+Timmon
 ```
 
 ## Original idea?
