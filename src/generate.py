@@ -23,6 +23,7 @@ TEST_DIVERSITIES = [0.2, 0.5, 1.0, 1.2]
 NAMES_PER_DIVERSITY = 100
 KEEP_ALREADY_EXISTING_NAMES = False
 DISPLAY_DISCARDED = True
+BAD_OUTPUT_LIMIT = 300
 # =====
 
 text = open(INPUT_PATH).read()
@@ -98,7 +99,9 @@ for iteration in range(1, TRAIN_ITERATIONS + 1):
 		seed = text[xStart:xStart + PIECE_LEN]
 		currentCharacter = ""
 		
-		while currentCharacter != "\n":
+		length = 0
+		
+		while currentCharacter != "\n" and length < BAD_OUTPUT_LIMIT:
 			x_pred = numpy.zeros((1, PIECE_LEN, lCharacters))
 			for t, character in enumerate(seed):
 				x_pred[0, t, charIndices[character]] = 1.
@@ -107,6 +110,7 @@ for iteration in range(1, TRAIN_ITERATIONS + 1):
 			nextIndex = sample(preds, diversity)
 			currentCharacter = indicesChar[nextIndex]
 			seed = seed[1:] + currentCharacter
+			length += 1
 		
 		generatedNames = []
 		nGenerated = 0
@@ -115,7 +119,9 @@ for iteration in range(1, TRAIN_ITERATIONS + 1):
 			name = ""
 			currentCharacter = ""
 			
-			while currentCharacter != "\n":
+			length = 0
+			
+			while currentCharacter != "\n" and length < BAD_OUTPUT_LIMIT:
 				x_pred = numpy.zeros((1, PIECE_LEN, lCharacters))
 				for t, character in enumerate(seed):
 					x_pred[0, t, charIndices[character]] = 1.
@@ -127,6 +133,7 @@ for iteration in range(1, TRAIN_ITERATIONS + 1):
 				
 				if currentCharacter != "\n":
 					name += currentCharacter
+					length += 1
 			
 			okToAdd = True
 			
