@@ -26,7 +26,7 @@ DISPLAY_DISCARDED = True
 BAD_OUTPUT_LIMIT = 300
 # =====
 
-text = open(INPUT_PATH).read()
+text = open(INPUT_PATH, encoding="utf-8").read()
 if not PRESERVE_CASE:
 	text = text.lower()
 	print("Will not preserve case.")
