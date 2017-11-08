@@ -113,7 +113,11 @@ for iteration in range(1, TRAIN_ITERATIONS + 1):
 			length += 1
 		
 		generatedNames = []
+		generatedNamesLookup = {}
 		nGenerated = 0
+		
+		realNamesDiscarded = 0
+		duplicatesDiscarded = 0
 		
 		while nGenerated < NAMES_PER_DIVERSITY:
 			name = ""
@@ -135,15 +139,16 @@ for iteration in range(1, TRAIN_ITERATIONS + 1):
 					name += currentCharacter
 					length += 1
 			
-			okToAdd = True
-			
 			if not KEEP_ALREADY_EXISTING_NAMES and name.lower() in existingNames:
-				okToAdd = False
-			
-			if okToAdd:
+				realNamesDiscarded += 1
+			elif name in generatedNamesLookup:
+				duplicatesDiscarded += 1
+			else:
 				generatedNames.append(name)
+				generatedNamesLookup[name] = True
 				nGenerated += 1
-			elif DISPLAY_DISCARDED:
-				print("DISCARDED:", name)
+		
+		totalGenerated = nGenerated + realNamesDiscarded + duplicatesDiscarded
 		
 		print("\n".join(generatedNames))
+		print("--- DISCARDED:", realNamesDiscarded, "real names (", (realNamesDiscarded / totalGenerated * 100), "% );", duplicatesDiscarded, "duplicates (", (duplicatesDiscarded / totalGenerated * 100), "% )")
