@@ -32,485 +32,423 @@ After training 59 times, here are some example outputs at various diversity sett
 ```
 Iteration: 59
 Epoch 1/1
-63790/63790 [==============================] - 9s 147us/step - loss: 1.6808
+63771/63771 [==============================] - 9s 147us/step - loss: 1.6989
 
 --- DIVERSITY: 0.2 ---
 
-DISCARDED: Walton
-DISCARDED: Broadwood
-DISCARDED: Carrington
-DISCARDED: Woodton
-DISCARDED: Bradley
-DISCARDED: Charleston
-DISCARDED: Stowey
-DISCARDED: Christon
-DISCARDED: Bradley
-DISCARDED: Holme
-DISCARDED: Bradley
-DISCARDED: Bradley
-DISCARDED: Stretton
-DISCARDED: Stretton
-DISCARDED: Chaldon
-DISCARDED: Winton
-DISCARDED: Broadwell
-DISCARDED: Stretton
-DISCARDED: Llangan
-DISCARDED: Llangan
-DISCARDED: Brackley
-DISCARDED: Carrington
-DISCARDED: Kirkton
-DISCARDED: Broughton
-DISCARDED: Chesterton
-DISCARDED: Charleston
-Branton
-Brennie
-Chalmer
-Brookmall
-West Bridge
-Bridgerton
-Stoney
-Cranton
-West Warth
-Crosel
-Chalkston
-Little Ard
-Brookston
-Barragh
-Chillerton
-Little Branton
-Bridgenden
-Cross Bridge
-Crossfield
-Brookmille
-Colden
-Stoney
-Crade
-Cheston
-Stoney
-Cold Clift
-West Warth
-Bellston
-Stoney Street
-Cross Warton
-Stonington
-Bratherton
-Stoney
-Stoke Bridge
-West Warton
-Croseldon
-Brooks Wood
-Stoneston
-Chilley
-Coldaress
-Brookston
-Connand
-Stoke Barne
-Market Botterton
-West Bridge
-West Barton
-Llangananan
-Carnard
-Stoney
-Stoney
-Branton
-Charle Carnton
-Brookmall
-Chalmer Cross
-Cornard
-West Barden
-Crossfield
-Brooks
-Crossforth
-Brookston
-Brooks Marston
-Brooks Hill
-Cornan
-West Bramle
-Brennie
-Brooks Hill
-West Harrishall
-Cross Corner
-Stoney Hill
-Stonesham
-Cornard
-Branton
-Stoney
-Stoney
-Stoke St Mary
-Cranton
-Stretten
-Branton
-Brenington
-Stoney Mont
-West Harster
-Stoney
-Cranton
-West Carnage
-West Barton
+Colston
+Llangaddd
+Carnington
+Carton
+Carle
+Carleston
 Charle
-Carnall
-West Harrishall
-Stoney
-Stoney
-Brooks Corne
-Cross Helle
-Cranton
-Challey
-Llangol
-Cheston
-Stoney Marsh
-Bramleston
-Brooks Colmington
-West Barden
+Harthorpe
+Llangard
+Saint Mary
+Browen
+Corrow
+Carles
+Chilley
+Collisham
+Ballyne
+Martherby
+Llangande
+Sandbury
+High Cherby
+Llangandon
+Briggton
+Carran
+Brower
+Carrow
+Carral
+Compton Heath
+West Charle
+Lower Carrin
+East Cross
+West Howerton
+Carlestone
+Colling
+West Penn
+Charley
+South Carrington
+Sandborough
+West Chambley
+Corthorpe
+West Wood
+Cortherby
+Little Wynton
+Corrington
+Carney
+Wingley
+Cainthorpe
+South Carle
+West Hinton
+Hartherby
+Little Carrington
+West Hanton
+West Halley
+Aldside
+Crosston
+Llangathinges
+West Harley
+Corth Carrington
+West Cross
+Carley
+Alley
+Lower Carrendon
+Sheaton
+Long Bridge
+West Langton
+West Home
+Whitenham
+Barreston
+Brockham
+Compton Stoke
+Burton Heat
+West Charlton
+Carrestone
+Compton Saint Mary
+Cold Hill
+Harthorn
+Browes
+West Collen
+Saint Marton
+Correston
+Stoke Hill
+Witton Saint Mary
+Hartham
+West Wynton
+Charrington
+Statton
+Compton of Stone Hill
+Witton Hill
+Scarestone
+Stoke Cross
+Little Cander
+Stowen
+Sand Cambley
+Crossington
+Chilly
+Little Cross
+West Howery
+West Long
+Sanderstone
+Fowston
+Compton Hill
+--- DISCARDED: 202 real names ( 39.29961089494164 % ); 212 duplicates ( 41.245136186770424 % )
 
 --- DIVERSITY: 0.5 ---
 
-DISCARDED: West Burton
-DISCARDED: Harley
-DISCARDED: Blackley
-DISCARDED: Bradley
-DISCARDED: Rock
-DISCARDED: Stanford
-DISCARDED: Holme
-DISCARDED: Burley
-DISCARDED: Harley
-DISCARDED: Carrington
-DISCARDED: Stainton
-DISCARDED: Garton
-DISCARDED: Bradley
-DISCARDED: Stretton
-DISCARDED: Stretton
-DISCARDED: Harrington
-DISCARDED: Burton
-DISCARDED: Woodton
-DISCARDED: Woodford
-Stoke Marster
-Carlington
-Stont Marston
-Mellonston
-Brockfield
-Little Lower Poet Hille
-Branton
-Fornham
-Bretford
-Monkstee
-West Breston
-Accote
-Widills
-Harlecragh
-Penry
-Bell
-Carlington
-Clarsend
-Crossaburn
-Croske
-Shirdon
-Stonarersh
-Meaton
-Coleston
-Bridge of Rodnall
-Little Leathwalt
-Aberthagan
-Thorperen
-Stoney Baston
-Holwinge
-Cheston
-Brackington
-Blainston
-West Ulwick
-Stonnards
-Great Cawill
-Llangbedrry
-Markick
-Chader Hatheror
-Pelston
-Cornage
-West Clisfield
-Little Stonnath
-Finder
-Foreston
-Brockerton
-Shepport
+West Alderted
+Lower West
+Llangrift
+Beddenhurst
+Chilley Saint Mary
+Worthbourne
+East Chadley
+Saint Mary
+Holden
+Pentriel
+Walley
+Denrington
+Sheaton
+Church Wood
+Costham
+Aldbridge
 Chilley
-Llanolenfint
-Lapham
-Cordington
-Brooks House
-Lough Head
-Martlesingham
-Charlley
+Glasston
+Clatham
+Wingston
+Chitton Willers
+West Crook
+Statton
+Carlemort
+Watersh
+West Winchley
+Bodich
+Doyne
+High Bishop
+Llangathar
+Carle
+Stoke Church-M-theech
 Charle
-Hansley
-New Gate
-Long Willie
-Stanling
-Starhampton
-Stoney
-Porth Bredging
-Derph
-Perron
-West Marst
-Cradham
-West Bardington
-Coningxcote
-Monnhys
-Waterbourne
-East Bally
-Closston
-Blainton
-Brooks Bradley
-Ablesham
-Laddington
-Great Bent
-Aber-
-Blynby
-West Corne
-Aberdrerna
-Croslaham
-Willow
-Crayton
-Woodforth
-Stretten
-Warwell
-Carnand
-Mounterton
-Canton
-Brooks
-Little Handow
-Great Cholle
-West Hathery
-New Halling
-South Talliston
-Charlesham
-Colden
-Wallerton
+West Mone
+Harthorn
+Great Marlin
+Harstead
+Catterborough
+Saint  bydulch
+Fanfield
+Colderley
+Ardin
+Kings Heaton
+LlanstBriet
+Carton
+South Carle
+Burney
+Hompton
+Colley
+Saint Peter
+East Chaddington
+Cheir
+South South
+West Heyton
+West Share
+West Loog
+Callgross
+Cotton Green
+Alberrogham
+Holling
+Thorn Downstone
+South Shipston
+Carley
+Gardington
+Charlestone
+Great Bridge
+West Cross
+Colcester
+Charleton
+Cartebour
+High Halsford
+West Hantley
+South Charrington
+Chelling
+East Weighton
+Ballyny
+Fowston
+Hendington
+Auchton
+Tretton
+Cromstead
+Calgatton
+Marington
+Llanande
+Criasterham
+Port
+Crove
+Barrenton
+Pennyd
+Great Swinton
+Compstone
+Winching
+West Wynton
+Great Wisherse
+Saint rMers
+Carrowalton
+Dunside
+Carren
+Hollow
+Charleigh
+--- DISCARDED: 34 real names ( 24.817518248175183 % ); 3 duplicates ( 2.18978102189781 % )
 
 --- DIVERSITY: 1.0 ---
 
-DISCARDED: Melbourne
-DISCARDED: Worton
-DISCARDED: Duddington
-DISCARDED: Burgh
-DISCARDED: Muston
-DISCARDED: Wetton
-DISCARDED: Littleborough
-DISCARDED: Newton
-DISCARDED: Swindon
-DISCARDED: Kenwick
-DISCARDED: Harrington
-DISCARDED: Whitfield
-DISCARDED: Benton
-DISCARDED: Warley
-DISCARDED: Cayton
-DISCARDED: Denham
-DISCARDED: Wetton
-Llanlagh
-Edick
-Hernure
-Hookstow
-North Saret
-Marford
-Madsingtanfee
-Great bleygunda
-Beckingdon Clwyn
-Eardsker
-Penmley
-Stordmore
-Chilop Hill
-Hawlinds Common
-Sraundidwast
-Stelberlas
-Moor
-Mustel-on-fyig
-vinx Brooks
-Harleton xworth
-Monkin
-Riseste Mock
-NewSapow
-Beynaby
-Cimputon undgerest
-Beath
-Newonspell
-Fristhe Catin
-isherpe
-Landunds
-Saint Manan
-Lokeley
-Elinsington
-forle
-West Llankish
-Cairrinnan
-Biaghen
-Dristelloe
-Linabelgh
-ghocir
-Rourk
-Marsteddin
-Llanalwall
-Bermonf
-Shindingbede
-Wivethead
-Martlee
-Grilterner
-Gampen Cross
-Portby
-Nainton
-Alnington
-Littlel
-Hippenbirk
-Stockby
-Crace
-Aibberton
-Heakeness
-Houstoe
-Earide
-Enby
-Portchise
-Lyndie
-Tkeheety
-Woodworthn
-Aursham
-Haufton
-Llandesidbenton
-Pretyveley
-Miltreety
-Great Wooduld
-Mhunnybeg
-Saint Warth Magbstley
-Tolmurs Wood in the Magna
-Toddlegalton
-Ponton
-Budmannard
-Michelynana Bad
-Springton
-Lower Coulton
-Heodcott
-Wiseaton
-Shelalls
-Bardartail
-Rower
-Edsall
-Beedstod
-Gridcrows
-Pelbersdinhamphorthn
-Brett
-Great Degby
-Ikellaws
-St Kefield
-Ellockdenham
-Crane
-Raddrafnnes
-Hommshall
-Cockles
-Saint Burton
-Malberlis
+K drynt
+Winnford
+Clorrinakley
+Plman
+Doagh Saint whan
+West Walkonnourt
+Scatlant
+mangisby
+Calkirks
+Mintochgin
+Tsfreton of Sterrode
+Derrington Woodring
+Llandydd
+Llandrivais
+Wingbearce
+Tardrom
+Crosss
+Ley House
+Pittrowbrey
+Whutterbohenpe
+Birdford
+Betcatff
+Kirks Keans
+Drettlewood
+Carrenford
+South Panwick
+Saint ONToS Greeli
+Halmston
+Huston
+Southreat
+Lapon
+Stalston
+Sysridge Crorse
+adudrodge
+Stexlater
+Flaurdence
+Spicklebury
+Bolventon
+Hhingham
+Curestone
+Kirkohorh
+Hobbey
+HemooBaWerford
+East Pamwell
+Ocklands
+Cornfield High
+Bungay Wastreith
+High Ceston
+Cesterwmttone
+Holdingborough
+Winnforth
+Woohtow Heath
+Shillan
+Cran
+Eortham
+Whead
+Carrichau
+West Hewkwortgste
+Newthenton
+iDoLfMelld
+Alcham
+Lowutusk
+Freckns
+Puddley
+wMccur
+Sispad
+Barncabe
+Halgatefor
+New Chainsham
+Hayt
+ingtol
+Reavensley
+Atton
+Anstreth
+Pomsh
+Llanganan
+houst Wriston
+Boint Keas
+Garsalt
+Rhockn
+Appley
+MarRidghton
+Llanodxu
+Buckborough
+Madwood
+Frebden
+Chippleford
+Asterwick
+Dridegton
+Cuestfield
+Stockfield
+Beun
+Duntnir
+licastor
+Welta-figll
+Haod
+Nanbury
+Tewtlebigiog
+Newton Estate
+Newton the Wildom
+--- DISCARDED: 14 real names ( 12.280701754385964 % ); 0 duplicates ( 0.0 % )
 
 --- DIVERSITY: 1.2 ---
 
-DISCARDED: Upton
-DISCARDED: Petton
-DISCARDED: Deal
-DISCARDED: Swine
-Opderley
-Steveninghills
-East Wattes
-Weoburash
-Bedline
-Milsey
-Tusham on swne
-Newtatton Sbe
-Pont iucheicu
-Dolwedas
-Portony
-Pston Chollawour
-Oldgedre
-Ty Rowers
-Whihill Cegrbado
-Wintingvehpalls undingle
-Langnafold
-Sterlasht
-Applihay
-Copthtrwich
-Scomphoe
-Staelaketon
-Llangebeden
-Streston
-Welmirkmorth
-Lisesiansty
-uxverine
-Huntoor
-Kirkcodilloch
-Rosel Norths
-Walternardaloch
-Bnynloa
-Rhydowke
-Cwmnare
-Swinland
-Assyn
-Eagaborghdside
-Ponmnifield
-Porllas
-Bladwest
-Want Sconast
-Hillney
-Somledgington
-Newbourrerton
-Wiokcombe
-Whisatry
-Port
-Rhydargh
-Mutlele
-Blydowin
-Fary
-Llandaeknwy
-holdsley
-Llanderfangen
-ghyru
-Grittoffford
-Faakfort
-Westwer
-Totfield
-ilcly-fis
-Llugpon
-Ashawor Kick
-Lidmue
-Hanthyvono
-Sedatnews
-Croys
-ble
-isshaken
-Ruy Cross
-Pont Street
-ileton Green
-Pauntfmelmint
-Ellinch
-Chenckmayn
-Llana
-Chileassdon
-Twyt Ovunly
-Blaf
-Greeton
-nogwood
-Pisby
-onh
-Chespenwy Nwe
-Isleton
-Spitfield
-Macwingpone
-Drymast
-Coltyke
-Wintan
-St wad
-o
-Rydetunt Cross
-Stunhampton
-Lower Eaton
-Midtlebigh
-Rawtrnoke
-Woldhopeluugswell
-Ridfield
-Cronguaau
-Haswleldon
+North Bunces
+Port Hyderton
+Mosteat
+North Boasal Will
+bffa
+Fowsbruceba
+Breckfield
+millawensey
+Cleighily um Dsbrick
+thuntref
+Ambaar
+Woodoch
+Hourhillickm Marrisaru
+Corcpwrol
+Mhee
+wWncum Champton waldele
+Hayt Carmaretry
+Barphillucum
+Maockack
+Carrtocum
+Hardwood
+Bompton Stoke
+risgort
+Nempston
+Sighill
+Dackepllan
+Abercharniun Ferrckes che ey
+ewitneyy
+Bahulmheads
+Praston
+Weston Moor
+avont
+Meffry
+Arock
+New Wyford
+aHyamnton
+Bradwick
+Sailt Rignage
+
+Lowinols Prisgum
+Fore
+Puddy
+Brefeland
+Anshand
+Saint Fethownney
+Pet-Tmarasham
+Wickolmore
+thelmiston
+Sutterbury
+Padford
+Crissde
+Woylsalla
+hestoun
+Adrhinad
+ls steet
+Hithlmassey
+Cratatter Bail
+Penattnes
+goLyhede
+Norghtrind
+Basbury
+nNairogan
+Sidestertown
+Kirkichgiatt
+Sypth
+Farrton
+Mil Haysry
+Newtown Woodre
+Tor Oxd
+Almsden
+Briustrioughtone
+Cadgateslett
+Modsford Basloftoning
+Thorboel
+SnaesMby
+Ec
+Stovhillen
+Grauddleswny
+Whalsich
+Knwborug
+Clam
+Shw
+Pombervile
+Hampstown
+Sherning
+Wutterbell
+Cedanvin
+Podworth
+sCark
+Tasntherys
+Crosstaf
+Kisken
+Hebishors
+File
+Hilley
+Wathing
+codacombes
+Aemey Boykred
+Worhaw
+Nelkwick
+--- DISCARDED: 4 real names ( 3.8461538461538463 % ); 0 duplicates ( 0.0 % )
 ```
 
 ## Example using only Scottish placenames
