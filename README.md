@@ -456,424 +456,423 @@ Nelkwick
 ```
 Iteration: 59
 Epoch 1/1
-10504/10504 [==============================] - 2s 149us/step - loss: 0.6920
+31512/31512 [==============================] - 5s 150us/step - loss: 1.3173
 
 --- DIVERSITY: 0.2 ---
 
-DISCARDED: Castleton
-DISCARDED: Blackford
-Caldsty
-Badilachu
-Dullisston
-Lonerd
-Baldenstole
-Middel
-Dangry
-Inchremston
-Altlank
-Wilt Gramn
-Archol
-Kircercorn
-Polterre
-Kilulaing
-Kirkcoly
-Barkloch
-Baldern
-Abery
-Bridgear
-Tallaness
-Ayleberry
-Saff Goovern
-Stratheld
-Brighou
-Dunbriees
-Saint Miwnarton
-Kirkford
-Inverkien
-Duncraigh
-Denbirt
-Criegsheydls
-Stothnass
-Luchincroy
-Blllochie
-Midoll
-Barblynd
-Maintordhie
-Midol
-Dunbry
-Inchragburn
-Coalie
-Saiev
-Hownathridge
-Lonbridge
-Cournn
-Corrandre
-Shille
-Coruld
-Ferry
-Bricksind etd
-Badercote
-Briecorn
-Boullie
-Kinkwncrud
-Salenah
-Polwlybenss
-PolMtow Ger
-Arnander
-Ardderale
-Carnich
-Derry
-Barglod
-Dumers
-Duneldert
-Dannneed
-Cardliston
-AchlisareShee
-Avingriee
-Duchenaick
-Ganart Saick
-Dungried
-Kingcalr
-Logher Morn
-Galesargie
-Raigin
-Bosle Blagk
-AuchinPiet
-Glenhrossain
-Dalrendale
-Ston
-Morth Low
-CrHfgam
-Cassald
-Spirt
-Miltale
-Bailos Flechie
-Kirkton of Achle
-Bellyskerry
-Stenkort
-Arnidale
-Saitthin
-Midolliig
-Kinceraick
-Salebern
-Cowncretisk
-Denblusie
-CaHllafie
-Ardhenal
-Gorinevick
-Stoney
+Camastonan
+Balnaban
+Gargandush
+Carslide
+Cashteridden
+Ballenbridge
+Camasdale
+Craiggown
+Colintran
+Dalbree
+Ballochae Bride
+Kirkton of Maltown
+Carse
+Camastownan
+Craigbank
+Kilmalloch
+Ballendrean
+Craignogr
+Camasaig
+Ardersie
+Ardnamore
+Ballenbree
+Kilmalarr
+Dunban
+Stevie
+Stracheray
+Craigweld
+Cardersie
+Ballen
+Kilmaladock
+Strachenbridge
+Ballendren
+Branaig
+Craiggonn
+Braeheaden
+Craigholl
+Ardnans
+Kings
+Craig of Muthren
+Kirkton of Callingall
+Craig of Munton
+Carnaga
+Minnichtown
+Bracaridden
+Carnal
+Braeheadenarry
+Bondyle
+Colindernoch
+Cambusk
+Gortondee
+Kilmalare
+Camase
+Mill of Charlet
+Sandallan
+Carsleichae
+Carsessdan
+Dalbrenger
+Ardness
+Carstavallich
+Bondalloch
+Dalbrain
+Craingston
+Ardnagort
+Strano
+Dunish
+Braeheadell
+Ballinan
+Ardraig
+Dunbarit
+Ballamavun
+Dalnagland
+Clachan of Glenaseigh
+Dunbarn
+Clachan of Glenaseig
+Ballend
+Balnacrbrits
+Dalmerite
+Torrig
+Craston
+Ballinsburgh
+Barnanan
+Carnon
+Tarber
+Ballanton
+Carston
+Craigwood Bridge
+Dalmall
+Cothanan
+Gardon
+Carnacs
+Kildranneth
+Ardwood
+Dalbride
+Cloversde
+Bridge of Destown
+Moulth
+Golansour
+Achnabridge
+Mill of Chirnacrous
+Craigead
+--- DISCARDED: 33 real names ( 16.25615763546798 % ); 70 duplicates ( 34.48275862068966 % )
 
 --- DIVERSITY: 0.5 ---
 
-DISCARDED: Barry
-DISCARDED: Auch
-Carglem
-Chasty
-BalloGron
-Kilccofnick
-Poltocl
-Aidmole
-Stienane
-Cardold
-Barnan
-Cullogidgrowe
-Kingehrithe
-Invercilva
-Tond Bay
-lenston
-Brilckien
-Sauch nakrn
-Scarry
-Blaighord
-DurcrSumach
-Dorvinn
-Logher of Gorey
-Haldsain Meanton
-Urdhie
-Bald n ckw
-Akfon
-Ardford
-MotfinbriNistop
-Ale
-Kington
-Darchneen
-Bruglowach
-Lowanmole
-Stolvuie
-Midell
-Charnow
-Auden
-Buhnniecharn
-Cornychill
-Lowerrie
-Canslysken
-Arnie
-rige Comalie
-Sallinathilcort
-Mooser
-Corrndon
-Ardtluchan
-Kinglochton
-Gransten
-Dallendert
-Glencorry
-Klenston
-Kingwerthie
-Ardsterton
-Craggn
-Mhockhinn
-Morskart
-Lochwood Forth otl
-Pitleberds
-Canton
-Fean of Firtrie
-Croie
-Lower Ber
-Farrisga
-
-Carvangant
-Mirchston
-Fossington
-Craigg
-Ball
-Arnbriggs
-Canbrifies
-Saint Miwnord
-Drumank
-utha
-Kilmora
-Hideldsher
-Arddbullie
-Cass
-Drumsidgot
-
-DonSknk
-Stown
-Ballyshy
-len
-Auctonbriagh
-Coallie
-Kirkckinna
-Druminar
-Crosbridge
-Casslie
-CanniComer
-Clochneblan
-Croseh Olde hendart
-Granrouss Benchry
-Forrossill
-Keiltom
-Eist die
-oomale Saint Gailusse
-Isl
-Doukle
+Achmadden
+Blachnacrich
+Barran
+Tilly of Loch
+Milton of Gouthorn
+Invererridge
+Ardnaston
+Invere
+Pitter Wellacel
+Dundean
+Capber
+Dalbree
+Bogton
+Caddingnann
+Inverindran
+Gortinghan
+Glenerge
+Stebbegg
+Brachavouse
+Collich
+Saltobridger
+Ballen
+Whitestanish
+Cothown
+Collie
+Camastonan
+Bailestone
+Gattllston
+Rutoan
+Newbath
+Bellybridge
+Moulton
+Mortton
+Colliessae
+Gordenbogse
+SteleybridgeDal Trriscuir
+Forrig
+West Ena
+Dalbrain
+Bradie
+Inveraclaig
+Carstast
+Chapees
+Cadal
+Sorts
+Kilmighaig
+Kinnethmore
+Dunaighay
+Kilmoran
+Carnalish
+Halns
+dal
+Achindalline
+Caple Camlunach
+Ardingsidg
+Skallas
+Redhh Rahale
+Carletown of Elvar
+Carston
+Tigh Taringerton
+Invererran
+Inveread
+Camastownan
+Edin sten
+Glanghall
+Crastlether
+Balmearn
+Galnaga
+mair
+Dallavenreich
+Kirkton of Campsie
+Clachary
+Halnton
+Saint Burn
+Port Newwome
+Calloch
+Farnand
+Gargiggon
+New Abegfarry
+Kirkton of Maig
+Kilchetstown
+Salinar
+Gargick
+Kinch
+Stelerride
+MossCumming
+Gattleton
+Garvoch
+Ardnand
+Newh Pilside
+Easter Monn
+Craig of Munton
+Gargutown
+Baleacalloch
+Baltrawins
+Colintray
+Laggume
+Lochie
+Largus Bay
+Barnshie
+--- DISCARDED: 11 real names ( 9.734513274336283 % ); 2 duplicates ( 1.7699115044247788 % )
 
 --- DIVERSITY: 1.0 ---
 
-DISCARDED: Kilmore
-Ballochaie
-shed
-CaCUtron
-Nochwene
-aighole
-Bllachmick
-Fairy
-Carnan Mrick
-Auclington
-Kilcforthie
-Loweshen
-Ardforidge
-Donala
-Kenter Griege Ferins
-Auchergerw
-CrSaghores
-Pollherin
-duirletlon
-Starr
-hiterard Dee nas Glassken
-Aldbreen
-Rochaina
-Clowfie
-Isle Grean
-Abriston
-Molair
-of Glas
-Bamnochte
-KirkluGle
-Whill Ben Bandawlee
-Ardloystoles
-Ardea
-AvullIumin
-Ridckalbriagh
-Caird Davin
-Ballochry
-Invenkte
-Inchillick
-Sanmwinn
-Saunnahern
-Borgholdchach
-Craigt
-Glencrgick
-AuchinCrey
-Sooth Mainceraheld
-Balenburn
-Royth
-ooshie
-Easter Bridge
-Gearventons ofle
-shig
-Tihen
-Dunlock
-glacon Ales
-Durkannich
-Westens
-fie
-Kirckreeld
-SInesstown
-Golmachun Glany
-cortysiee
-Stoth
-Losfurn
-Fonmilleaco
-Weathrood
-CrHggs Knvenk
-Thacklicr
-Inverbrigg
-Lowerishels
-Strather
-Proskigk
-Cemmsside
-towny Beldie
-Kinckhoot
-Lonlfererishe
-trochar
-Crossiisktorn
-Carnsd la O
-Ayle knisse
-Eartossill
-Kingtruse
-Rogin
-Ballickhinn
-Strothhall
-mirgston Fornes
-Oldsig
-Ridton All
-Remick
-Kilchoon
-Forlinar
-hiaddaig
-Tibriston
-Achtors
-Um
-Stolvuie
-Arvalmichine
-Portnemroe
-khirroot
-Morliem
-GlacroGras
+Nether Glencaute
+Strachtynan
+oheill
+Shawhceigang
+Ashie
+Muchnan
+mairn
+Pollach
+Craignood
+Tordan
+Carmore
+Condan
+Meinstow
+Airdridge
+Forringie
+Dunbel
+Craigallick
+Penmar
+Glenbead
+Welloce
+Greenochie
+Lochwinnet
+Camastownan
+Pruskhinne
+Inverishait
+Saint Daug
+Knockester Bain
+Kirkton of Montonbrait
+Fanhouse
+Arnarown
+Rhyrick
+Wellocf
+Gloibur
+Bregsick
+Tohshel
+Obtondick
+Fordal
+Achnoon
+Dunaighay
+lash
+Libeeton
+Carban
+Carnston
+Dalsety Bair
+Birn
+Maverich
+Brouse
+Palco
+Dunnoss
+Lower dobhyle
+Kilmelloch
+Hodrburn
+Michemston
+Craig ayva
+Dallus
+Garmore
+Achneenbie
+nisaig
+Edra
+Gaasdanass
+Melloch
+Hilessie
+Mouldridge
+Marrtfoot
+Kirkfood
+ay
+Daugs
+Carglack
+Kirkton own
+Rossick
+Burrar
+Craich
+Rhybernock
+Risesdal
+Stron
+Vullabridge
+Invere
+Inverisha
+Cranferkortie
+Hyndocs
+Skalloch
+Caddings
+Granggend
+Cloverfieldie
+Bridge of Muge
+Durna
+Monton Spint
+Steber
+Inveredranne
+Sanyill
+Braeton Buster
+Achinalach
+Campsdort
+Bowlingend
+West
+Camcaff
+Galleston
+Contonwoot
+Auchnandhill
+Mot Bridge
+--- DISCARDED: 5 real names ( 4.761904761904762 % ); 0 duplicates ( 0.0 % )
 
 --- DIVERSITY: 1.2 ---
 
-Lheytertherr
-plintyness Banrossater
-Leerilandald
-Twentole
-Klockfoon
-Rorlitonn Sairl
-PoretenCre
-Cardshale
-Legneffouchie
-Kingter
-Garvie
-gorridcore
-Westherr
-Germacater
-East Skuln Forvuich
-kergisse
-Strathill
-Hairtmit
-Howny
-Ardslay
-Erstan
-Hamole
-Mill
-Clltoberr
-Reygle
-towner
-Rog
-Lorcharie
-Finbidge
-Derichne
-Ard lem
-KilkinBord
-Gouliston
-Durluch
-gattin
-Banrancore
-Fonarin
-Borchwick
-Kirtonnochn
-DunHupry
-Rishton
-Ardhocad
-Rachachie
-mirth Blagoo
-Foverisk
-Foxross Shield
-Carona
-Salentoce
-GrenGremes
-Lichon
-Berilcsy
-Invermoran of endia
-Midoburghiig Cavill
-Corrern
-BirKell
-A'hnaighort
-Goucmin
-Kington
-Alllan
-Culryilt
-Lunghoodchie
-Kirkfick
-Bundall
-Fennakill
-Gouloras
-Clanomriem
-Goungigs
-Casraichar
-Drumall Emven
-Porphinrtun
-Kington
-Forrosfid
-conmelly
-Hanten
-Bully
-Kirkword New
-Ardfort
-Eccorrosston
-Brdochbrnd
-Enpirt
-wirkol
-yre
-Isle
-Archremos
-Corlin
-Black
-readie
-Maxdll
-Maitthiel
-Lossay
-Kirkton of Sletton
-Craggiston
-Grestancr
-Gruignan
-Kirkburn
-Kilnaray
-East Bacny
-Auchssie
-LeOnton
-Timmon
+Portrie
+ullage
+Culron Esmpack
+Kebiss
+Dalsetcrymy
+Gatabeoch
+Tillyfey
+Cash
+Blackfoon
+mair
+Netherisden
+Eliordal
+Dunie
+Airdastle
+Steat of bork
+Fer Inverey
+Darlebridge
+Hothill
+Rate Echill
+Creebs
+Cardindaln
+korra
+Culole
+Grygary
+Amnacred Buguhalroch
+Kilmalganabride
+Comaster
+Kingsbosn
+Crasklabla
+Clach Uiss
+Dulemore
+Dalborton
+Pound
+Cstaminh
+Carse
+fienarurhay
+Slasnaig
+Hillth
+ulpock
+Kirnaston
+Skavie
+Fairh
+gindaig
+minda
+Lochmannan
+Kilmulock
+Kibbown
+Pitboshock
+Stoplebridge
+Falestonn
+Loga
+ykerwood
+Kishuelall
+Poundome
+Summerslan
+Kligatthearn
+Scyteran Fourd
+Wilsooty
+Aalbanle
+Ash
+Stom
+Pattemswar
+Raul
+Aartholl
+Liklorry
+Boshnmillie
+Rothie
+Adpin
+Sunaie
+North ris
+Achridenny
+Nedblet
+Athton
+Inverindal Ma
+While
+Middone Rean
+Luntearlos
+Grunfoush
+ Termore
+Bodraig
+Westqurgape
+Strupae
+Masdtoad Fraick
+Dungcarny
+Bogherarroth
+Portmrgan
+Braca
+Gotonan
+Stoney
+Glorghaven
+eas Gaynyburn
+Kirkboon
+Sandulds
+Wpland
+Tyniline
+Dunis airt
+Duanairsie
+Barnansca
+Scaltlorven
+Storehaven
+--- DISCARDED: 6 real names ( 5.660377358490567 % ); 0 duplicates ( 0.0 % )
 ```
 
 ## Original idea?
